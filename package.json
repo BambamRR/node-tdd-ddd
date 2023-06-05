@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BambamRR/node-tdd-ddd/issues"
   },
-  "homepage": "https://github.com/BambamRR/node-tdd-ddd#readme"
+  "homepage": "https://github.com/BambamRR/node-tdd-ddd#readme",
+  "dependencies": {
+    "git-commit-msg-linter": "^5.0.4"
+  }
 }
