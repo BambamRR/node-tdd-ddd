@@ -17,7 +17,9 @@
     "url": "https://github.com/BambamRR/node-tdd-ddd/issues"
   },
   "homepage": "https://github.com/BambamRR/node-tdd-ddd#readme",
-  "dependencies": {
-    "git-commit-msg-linter": "^5.0.4"
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "git-commit-msg-linter": "^5.0.4",
+    "typescript": "^5.1.3"
   }
 }
